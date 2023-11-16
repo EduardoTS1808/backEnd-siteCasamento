@@ -85,8 +85,8 @@ const index = listaPresentes.indexOf(itemRomovido)
 listaPresentes.splice(index, 1)
 
 
-  res.status(204).json({message: 'Objeto deletado com sucesso'})
-window.location.reload()
+  res.sed(
+window.location.reload())
  
 })
 
