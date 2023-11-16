@@ -29,7 +29,7 @@ const listaPresentes = [
     {id:13, title:'Kit Forma Anti-aderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
     {id:14, title:'Frigideiras Anti-aderente ',    src:'./imagens/frigideiras.jpg', disponivel: true,},
     
-    {id:16, title:'Jarra de Vidro ',    src:'./imagens/jarra-vidro.jpg', disponivel: true,},
+    
     {id:17, title:'Kit Banheiro ',    src:'./imagens/kit-banheiro.jpg', disponivel: true,},
     {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: true,},
     {id:20, title:'Kit Leiteira ',    src:'./imagens/kit-leiteira.jpg', disponivel: true,},
@@ -40,7 +40,7 @@ const listaPresentes = [
     
     
    
-    {id:51, title: 'Cuscuzeira', src:'./imagens/cuscuzeira.jpg', disponivel: true,},
+    
     {id:29, title:'Tábua de Passar',    src:'./imagens/tabua-passar-roupa.jpg', disponivel: true,},
     {id:31, title:'Taças - Sobremesa',    src:'./imagens/kit-sobremesa_2.png', disponivel: true,},
     {id:32, title:'Kit Tapetes para Banheiro',    src:'./imagens/tapete-banheiro.jpg', disponivel: true,},
