@@ -20,7 +20,7 @@ const port = process.env.PORT || 3002
 
 const listaPresentes = [ 
     {id:4, title:'Boleira',    src:'./imagens/boleira.jpg', disponivel: true,},
-    {id:5, title:'Cafeteira',    src:'./imagens/cafeteira-grafite.jpg', disponivel: true,},
+    
     {id:6, title:'Colheres',    src:'./imagens/colheres-plastico.jpg', disponivel: true,},
     
     
@@ -47,7 +47,7 @@ const listaPresentes = [
     {id:33, title:'Panela de Arroz Elétrica',    src:'./imagens/panela-arroz-eletrica.jpg', disponivel: true,},
     {id:3, title:'Rede Cadeira de Balanço',    src:'./imagens/rede-cadeira-balanco.png', disponivel: true,},
     {id:2, title:'Rede Gigante - Cinza',    src:'./imagens/rede-gigante.jpg', disponivel: true,},
-    {id:30, title:'Rede Gigante - Bege',    src:'./imagens/rede-gigante-2.jpg', disponivel: true,},
+    
     
     {id:50, title:'Jogo de Toalha - Rosto e Banho 2',    src:'./imagens/jogo-toalha-balho2.jpg', disponivel: true,},
     {id:35, title:'Kit Colcha de Cama - Queen',    src:'./imagens/colcha-cama-queen.jpg', disponivel: true,},
