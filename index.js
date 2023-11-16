@@ -28,7 +28,7 @@ const listaPresentes = [
     {id:12, title:'Kit Facas ',    src:'./imagens/faqueiro-so-facas.jpg', disponivel: true,},
     {id:13, title:'Kit Forma Antiaderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
     {id:14, title:'Frigideiras Anteaderente ',    src:'./imagens/frigideiras.jpg', disponivel: true,},
-    {id:15, title:'Garrafa Témica  ',    src:'./imagens/garrafa-termica-cafe.jpg', disponivel: true,},
+    
     {id:16, title:'Jarra de Vidro ',    src:'./imagens/jarra-vidro.jpg', disponivel: true,},
     {id:17, title:'Kit Banheiro ',    src:'./imagens/kit-banheiro.jpg', disponivel: true,},
     {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: true,},
@@ -37,7 +37,7 @@ const listaPresentes = [
     {id:22, title:'Jogo de Toalhas - Rosto e Banho 3 ',    src:'./imagens/kit-toalha-corpo-rosto.jpg', disponivel: true,},
     {id:23, title:'Kit Assadeira',    src:'./imagens/kit-travessa-inox.jpg', disponivel: true,},
     {id:24, title:'Kit Travessas - Vidro',    src:'./imagens/kit-travessa-vidro.jpg', disponivel: true,},
-    {id:26, title:'Micro-Ondas',    src:'./imagens/microondas.jpg', disponivel: true,},
+    
     {id:27, title:'Ferro de Passar',    src:'./imagens/ferro-passar.jpg', disponivel: true,},
     {id:1, title: 'Kit Pratos', src:'./imagens/aparelho-de-jantar.jpg', disponivel: true,},
     {id:51, title: 'Cuscuzeira', src:'./imagens/cuscuzeira.jpg', disponivel: true,},
