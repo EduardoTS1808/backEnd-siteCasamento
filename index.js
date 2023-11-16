@@ -23,7 +23,7 @@ const listaPresentes = [
     {id:5, title:'Cafeteira',    src:'./imagens/cafeteira-grafite.jpg', disponivel: true,},
     {id:6, title:'Colheres',    src:'./imagens/colheres-plastico.jpg', disponivel: true,},
     {id:7, title:'Conjunto de Xicaras',    src:'./imagens/conjunto-xicaras.jpg', disponivel: true,},
-    {id:9, title:'Copos de Vidro',    src:'./imagens/copos.jpg', disponivel: true,},
+    
     {id:11, title:'Faqueiro Completo ',    src:'./imagens/faqueiro-completo.jpg', disponivel: true,},
     {id:12, title:'Kit Facas ',    src:'./imagens/faqueiro-so-facas.jpg', disponivel: true,},
     {id:13, title:'Kit Forma Antiaderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
@@ -38,7 +38,7 @@ const listaPresentes = [
     {id:23, title:'Kit Assadeira',    src:'./imagens/kit-travessa-inox.jpg', disponivel: true,},
     {id:24, title:'Kit Travessas - Vidro',    src:'./imagens/kit-travessa-vidro.jpg', disponivel: true,},
     
-    {id:27, title:'Ferro de Passar',    src:'./imagens/ferro-passar.jpg', disponivel: true,},
+    
     {id:1, title: 'Kit Pratos', src:'./imagens/aparelho-de-jantar.jpg', disponivel: true,},
     {id:51, title: 'Cuscuzeira', src:'./imagens/cuscuzeira.jpg', disponivel: true,},
     {id:29, title:'Tábua de Passar',    src:'./imagens/tabua-passar-roupa.jpg', disponivel: true,},
