@@ -84,7 +84,7 @@ const itemRomovido =  listaPresentes.find((e) => e.id == id)
 const index = listaPresentes.indexOf(itemRomovido)
 listaPresentes.splice(index, 1)
 
-  res.send('<script>window.location.reload()</script>
+  res.send('<script>window.location.reload()</script>)
   res.status(204).json({message: 'Objeto deletado com sucesso'})
  
 })
