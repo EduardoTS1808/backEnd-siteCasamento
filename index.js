@@ -85,7 +85,7 @@ const index = listaPresentes.indexOf(itemRomovido)
 listaPresentes.splice(index, 1)
 
 
-  res.status(204).json("ok")
+  res.send(res.status(204).json("ok"));
  
 })
 
