@@ -69,7 +69,6 @@ const listaPresentes = [
     
 ]
 
-// Rota para obter a lista de dados
 app.get('/', (req,res)=>{
   return res.json('servidor rodando...')
 })
