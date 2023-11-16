@@ -26,8 +26,8 @@ const listaPresentes = [
     
     {id:11, title:'Faqueiro Completo ',    src:'./imagens/faqueiro-completo.jpg', disponivel: true,},
     {id:12, title:'Kit Facas ',    src:'./imagens/faqueiro-so-facas.jpg', disponivel: true,},
-    {id:13, title:'Kit Forma Antiaderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
-    {id:14, title:'Frigideiras Anteaderente ',    src:'./imagens/frigideiras.jpg', disponivel: true,},
+    {id:13, title:'Kit Forma Anti-aderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
+    {id:14, title:'Frigideiras Anti-aderente ',    src:'./imagens/frigideiras.jpg', disponivel: true,},
     
     {id:16, title:'Jarra de Vidro ',    src:'./imagens/jarra-vidro.jpg', disponivel: true,},
     {id:17, title:'Kit Banheiro ',    src:'./imagens/kit-banheiro.jpg', disponivel: true,},
