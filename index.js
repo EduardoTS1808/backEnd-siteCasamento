@@ -22,7 +22,7 @@ const listaPresentes = [
     {id:4, title:'Boleira',    src:'./imagens/boleira.jpg', disponivel: true,},
     {id:5, title:'Cafeteira',    src:'./imagens/cafeteira-grafite.jpg', disponivel: true,},
     {id:6, title:'Colheres',    src:'./imagens/colheres-plastico.jpg', disponivel: true,},
-    {id:7, title:'Conjunto de Xicaras',    src:'./imagens/conjunto-xicaras.jpg', disponivel: true,},
+    
     
     {id:11, title:'Faqueiro Completo ',    src:'./imagens/faqueiro-completo.jpg', disponivel: true,},
     {id:12, title:'Kit Facas ',    src:'./imagens/faqueiro-so-facas.jpg', disponivel: true,},
@@ -39,7 +39,7 @@ const listaPresentes = [
     {id:24, title:'Kit Travessas - Vidro',    src:'./imagens/kit-travessa-vidro.jpg', disponivel: true,},
     
     
-    {id:1, title: 'Kit Pratos', src:'./imagens/aparelho-de-jantar.jpg', disponivel: true,},
+   
     {id:51, title: 'Cuscuzeira', src:'./imagens/cuscuzeira.jpg', disponivel: true,},
     {id:29, title:'Tábua de Passar',    src:'./imagens/tabua-passar-roupa.jpg', disponivel: true,},
     {id:31, title:'Taças - Sobremesa',    src:'./imagens/kit-sobremesa_2.png', disponivel: true,},
@@ -48,11 +48,11 @@ const listaPresentes = [
     {id:3, title:'Rede Cadeira de Balanço',    src:'./imagens/rede-cadeira-balanco.png', disponivel: true,},
     {id:2, title:'Rede Gigante - Cinza',    src:'./imagens/rede-gigante.jpg', disponivel: true,},
     {id:30, title:'Rede Gigante - Bege',    src:'./imagens/rede-gigante-2.jpg', disponivel: true,},
-    {id:34, title:'Jogo de Toalha - Rosto e Banho',    src:'./imagens/jogo-toalha-balho.jpg', disponivel: true,},
+    
     {id:50, title:'Jogo de Toalha - Rosto e Banho 2',    src:'./imagens/jogo-toalha-balho2.jpg', disponivel: true,},
     {id:35, title:'Kit Colcha de Cama - Queen',    src:'./imagens/colcha-cama-queen.jpg', disponivel: true,},
     {id:36, title:'Kit Colcha de Cama - Queen-2',    src:'./imagens/colcha-cama-queen2.jpg', disponivel: true,},
-    {id:37, title:'Espremedor de Frutas - 1,5L',    src:'./imagens/espremedor-frutas-1,5l.jpg', disponivel: true,},
+    
     {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: true,},
     {id:39, title:'Kit Escorredor Inox',    src:'./imagens/kit-escorredor-inox.jpg', disponivel: true,},
     {id:40, title:'Jogo Lençol Fino - Queen',    src:'./imagens/kit-lencol-fino.jpg', disponivel: true,},
