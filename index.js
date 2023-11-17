@@ -1,4 +1,4 @@
-import express from "express"
+9import express from "express"
 import cors from "cors"
 import bodyParser from "body-parser";
 
@@ -64,7 +64,7 @@ const listaPresentes = [
     {id:46, title:'Mop Esfregão Giratório',    src:'./imagens/mop-esfregao-giratorio.jpg', disponivel: true,},
     {id:47, title:'Mini-processador de Alimentos',    src:'./imagens/mini-processador.jpg', disponivel: true,},
     {id:52, title:'Jogo Panelas de Alumínio',    src:'./imagens/jogo-panelas-aluninio.jpg', disponivel: true,},
-    {id:53, title:'Cesto - Roupas Sujas - 55L',    src:'./imagens/cesto-roupas.jpg', disponivel: true,},
+    
     {id:54, title:'Churrasqueira Móvel',    src:'./imagens/churrasqueira.jpg', disponivel: true,},
     
 ]
