@@ -32,8 +32,7 @@ const listaPresentes = [
     {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: true,},
 {id:68, title:'Panela de Pressão',    src:'./imagens/panela-de-pressao.jpg', disponivel: true,},
     
-    {id:70, title:'Líquidificador',    src:'./imagens/liquidificador.jpg', disponivel: true,},
-    {id:71, title:'Ventilador',    src:'./imagens/ventilador.jpg', disponivel: true,},
+   
     {id:72, title:'Kit Colheres Inóx',    src:'./imagens/kit-colheres-inox.jpg', disponivel: true,},
     {id:20, title:'Kit Leiteira ',    src:'./imagens/kit-leiteira.jpg', disponivel: true,},
     {id:21, title:'Porta Mantimentos ',    src:'./imagens/kit-porta-mantimentos.jpg', disponivel: true,},
