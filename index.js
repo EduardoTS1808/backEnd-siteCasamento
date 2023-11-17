@@ -63,9 +63,7 @@ const listaPresentes = [
     {id:45, title:'Lençol Elástico - Queen',    src:'./imagens/lencol-elastico.jpg', disponivel: true,},
     {id:46, title:'Mop Esfregão Giratório',    src:'./imagens/mop-esfregao-giratorio.jpg', disponivel: true,},
     {id:47, title:'Mini-processador de Alimentos',    src:'./imagens/mini-processador.jpg', disponivel: true,},
-    {id:52, title:'Jogo Panelas de Alumínio',    src:'./imagens/jogo-panelas-aluninio.jpg', disponivel: true,},
-    
-    {id:54, title:'Churrasqueira Móvel',    src:'./imagens/churrasqueira.jpg', disponivel: true,},
+    {id:52, title:'Jogo Panelas de Alumínio',    src:'./imagens/jogo-panelas-aluninio.jpg', disponivel: true,}, {id:54, title:'Churrasqueira Móvel',    src:'./imagens/churrasqueira.jpg', disponivel: true,},
     
 ]
 
