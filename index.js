@@ -19,7 +19,7 @@ const port = process.env.PORT || 3002
 
 
 const listaPresentes = [ 
-    {id:4, title:'Boleira',    src:'./imagens/boleira.jpg', disponivel: true,},
+    
     
     {id:6, title:'Colheres',    src:'./imagens/colheres-plastico.jpg', disponivel: true,},
     
