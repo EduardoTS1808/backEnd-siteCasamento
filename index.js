@@ -55,7 +55,7 @@ const listaPresentes = [
     
     {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: true,},
     {id:39, title:'Kit Escorredor Inox',    src:'./imagens/kit-escorredor-inox.jpg', disponivel: true,},
-    {id:40, title:'Jogo Lençol Fino - Queen',    src:'./imagens/kit-lencol-fino.jpg', disponivel: true,},
+    
     {id:41, title:'Jogo Panelas Anti-aderente',    src:'./imagens/kit-panelas-ante-aderente.jpg', disponivel: true,},
     {id:42, title:'Kit Tapetes para Banheiro',    src:'./imagens/kit-tapete-banheiro-2.jpg', disponivel: true,},
     {id:43, title:'Kit Tapetes para Cozinha',    src:'./imagens/kit-tapete-cozinha.jpg', disponivel: true,},
