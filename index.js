@@ -52,7 +52,14 @@ const listaPresentes = [
     {id:36, title:'Kit Colcha de Cama - Queen-2',    src:'./imagens/colcha-cama-queen2.jpg', disponivel: true,},
     
     {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: true,},
-    {id:39, title:'Kit Escorredor Inox',    src:'./imagens/kit-escorredor-inox.jpg', disponivel: true,},
+    {id:60, title:'Cortinas Blackout',    src:'./imagens/cortina-blackout.jpg', disponivel: true,},
+    {id:61, title:'Kit Cabides de Madeira',    src:'./imagens/kit-cabides-madeira.jpg', disponivel: true,},
+    {id:62, title:'Kit Depósitos de Mantimento',    src:'./imagens/kit-depositos-mantimentos.jpg', disponivel: true,},
+    {id:63, title:'Kit Vasoura, Rodo e Pá',    src:'./imagens/kit-masoura-rodo-pa.png', disponivel: true,},
+    {id:64, title:'Kit Organizador Pia, Balcão',    src:'./imagens/kit-organizador-pia.jpg', disponivel: true,},
+    {id:65, title:'Kit Peneiras Inóx',    src:'./imagens/kit-peneiras.jpg', disponivel: true,},
+    {id:66, title:'Kit Ralador',    src:'./imagens/kit-ralador.jpg', disponivel: true,},
+    {id:67, title:'Tábua de Corte',    src:'./imagens/taboa-cortar-carne.jpg', disponivel: true,},
     
     {id:41, title:'Jogo Panelas Anti-aderente',    src:'./imagens/kit-panelas-ante-aderente.jpg', disponivel: true,},
     {id:42, title:'Kit Tapetes para Banheiro',    src:'./imagens/kit-tapete-banheiro-2.jpg', disponivel: true,},
