@@ -24,8 +24,6 @@ const listaPresentes = [
     {id:6, title:'Colheres',    src:'./imagens/colheres-plastico.jpg', disponivel: true,},
     
     
-    
-    {id:12, title:'Kit Facas ',    src:'./imagens/faqueiro-so-facas.jpg', disponivel: true,},
     {id:13, title:'Kit Forma Anti-aderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
     {id:14, title:'Frigideiras Anti-aderente ',    src:'./imagens/frigideiras.jpg', disponivel: true,},
     
