@@ -21,7 +21,7 @@ const port = process.env.PORT || 3002
 const listaPresentes = [ 
     
     
-    {id:6, title:'Colheres de Silicone',    src:'./imagens/colheres-plastico.jpg', disponivel: true,},
+ 
     
     
     {id:13, title:'Kit Forma Anti-aderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
