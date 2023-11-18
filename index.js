@@ -59,7 +59,7 @@ const listaPresentes = [
     {id:60, title:'Cortinas Blackout',    src:'./imagens/cortina-blackout.jpg', disponivel: true,},
     {id:61, title:'Kit Cabides de Madeira',    src:'./imagens/kit-cabides-madeira.jpg', disponivel: true,},
     {id:62, title:'Kit Depósitos de Mantimento',    src:'./imagens/kit-depositos-mantimentos.jpg', disponivel: true,},
-    {id:63, title:'Kit Vasoura, Rodo e Pá',    src:'./imagens/kit-masoura-rodo-pa.png', disponivel: true,},
+    
     {id:64, title:'Kit Organizador Pia, Balcão',    src:'./imagens/kit-organizador-pia.jpg', disponivel: true,},
     {id:65, title:'Kit Peneiras Inóx',    src:'./imagens/kit-peneiras.jpg', disponivel: true,},
     {id:66, title:'Kit Ralador',    src:'./imagens/kit-ralador.jpg', disponivel: true,},
