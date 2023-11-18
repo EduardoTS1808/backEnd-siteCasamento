@@ -44,7 +44,7 @@ const listaPresentes = [
    
     
     {id:29, title:'Tábua de Passar',    src:'./imagens/tabua-passar-roupa.jpg', disponivel: true,},
-    {id:31, title:'Taças - Sobremesa',    src:'./imagens/kit-sobremesa_2.png', disponivel: true,},
+    
     {id:32, title:'Kit Tapetes para Banheiro',    src:'./imagens/tapete-banheiro.jpg', disponivel: true,},
     {id:33, title:'Panela de Arroz Elétrica',    src:'./imagens/panela-arroz-eletrica.jpg', disponivel: true,},
     {id:3, title:'Rede Cadeira de Balanço',    src:'./imagens/rede-cadeira-balanco.png', disponivel: true,},
