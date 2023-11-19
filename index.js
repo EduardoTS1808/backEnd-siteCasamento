@@ -25,7 +25,7 @@ const listaPresentes = [
     
     
     {id:13, title:'Kit Forma Anti-aderente',    src:'./imagens/forma-bolo.jpg', disponivel: true,},
-    {id:14, title:'Frigideiras Anti-aderente ',    src:'./imagens/frigideiras.jpg', disponivel: true,},
+ 
     
     
     {id:17, title:'Kit Banheiro ',    src:'./imagens/kit-banheiro.jpg', disponivel: true,},
