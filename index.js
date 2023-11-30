@@ -28,7 +28,7 @@ const listaPresentes = [
  
     
     
-    {id:17, title:'Kit Banheiro ',    src:'./imagens/kit-banheiro.jpg', disponivel: true,},
+    
     {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: true,},
 {id:68, title:'Panela de Pressão',    src:'./imagens/panela-de-pressao.jpg', disponivel: true,},
     
