@@ -67,7 +67,7 @@ const listaPresentes = [
     
     {id:41, title:'Jogo Panelas Anti-aderente',    src:'./imagens/kit-panelas-ante-aderente.jpg', disponivel: true,},
     {id:42, title:'Kit Tapetes para Banheiro',    src:'./imagens/kit-tapete-banheiro-2.jpg', disponivel: true,},
-    {id:43, title:'Kit Tapetes para Cozinha',    src:'./imagens/kit-tapete-cozinha.jpg', disponivel: true,},
+    {id:43, title:'Kit Tapetes para Cozinha',    src:'./imagens/kit-tapete-cozinha.jpg', disponivel: false,},
     {id:44, title:'Kit Tapetes para Cozinha',    src:'./imagens/kit-tapete-cozinha-2.jpg', disponivel: true,},
     {id:45, title:'Lençol Elástico - Queen',    src:'./imagens/lencol-elastico.jpg', disponivel: true,},
     
