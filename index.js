@@ -30,7 +30,7 @@ const listaPresentes = [
     
     
     {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: true,},
-{id:68, title:'Panela de Pressão',    src:'./imagens/panela-de-pressao.jpg', disponivel: true,},
+{id:68, title:'Panela de Pressão',    src:'./imagens/panela-de-pressao.jpg', disponivel: false,},
     
    
     {id:72, title:'Kit Colheres Inóx',    src:'./imagens/kit-colheres-inox.jpg', disponivel: true,},
@@ -53,7 +53,7 @@ const listaPresentes = [
     
     {id:50, title:'Jogo de Toalha - Rosto e Banho 2',    src:'./imagens/jogo-toalha-balho2.jpg', disponivel: true,},
     {id:35, title:'Kit Colcha de Cama - Queen',    src:'./imagens/colcha-cama-queen.jpg', disponivel: false,},
-    {id:36, title:'Kit Colcha de Cama - Queen-2',    src:'./imagens/colcha-cama-queen2.jpg', disponivel: true,},
+    {id:36, title:'Kit Colcha de Cama - Queen-2',    src:'./imagens/colcha-cama-queen2.jpg', disponivel: false,},
     
     {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: true,},
     {id:60, title:'Cortinas Blackout',    src:'./imagens/cortina-blackout.jpg', disponivel: true,},
