@@ -33,7 +33,7 @@ const listaPresentes = [
 {id:68, title:'Panela de Pressão',    src:'./imagens/panela-de-pressao.jpg', disponivel: false,},
     
    
-    {id:72, title:'Kit Colheres Inóx',    src:'./imagens/kit-colheres-inox.jpg', disponivel: true,},
+    {id:72, title:'Kit Colheres Inox',    src:'./imagens/kit-colheres-inox.jpg', disponivel: true,},
     {id:20, title:'Kit Leiteira ',    src:'./imagens/kit-leiteira.jpg', disponivel: true,},
     {id:21, title:'Porta Mantimentos ',    src:'./imagens/kit-porta-mantimentos.jpg', disponivel: true,},
     {id:22, title:'Jogo de Toalhas - Rosto e Banho 3 ',    src:'./imagens/kit-toalha-corpo-rosto.jpg', disponivel: true,},
