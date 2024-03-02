@@ -37,7 +37,7 @@ const listaPresentes = [
     {id:20, title:'Kit Leiteira ',    src:'./imagens/kit-leiteira.jpg', disponivel: true,},
     {id:21, title:'Porta Mantimentos ',    src:'./imagens/kit-porta-mantimentos.jpg', disponivel: true,},
     {id:22, title:'Jogo de Toalhas - Rosto e Banho 3 ',    src:'./imagens/kit-toalha-corpo-rosto.jpg', disponivel: false,},
-    {id:23, title:'Kit Assadeira',    src:'./imagens/kit-travessa-inox.jpg', disponivel: true,},
+    {id:23, title:'Kit Assadeira',    src:'./imagens/kit-travessa-inox.jpg', disponivel: false,},
     {id:24, title:'Kit Travessas - Vidro',    src:'./imagens/kit-travessa-vidro.jpg', disponivel: false,},
     
      {id:91, title:'Aspirador de Pó',    src:'./imagens/aspirador-de-po.jpg', disponivel: true,},
@@ -55,7 +55,7 @@ const listaPresentes = [
     {id:35, title:'Kit Colcha de Cama - Queen',    src:'./imagens/colcha-cama-queen.jpg', disponivel: false,},
     {id:36, title:'Kit Colcha de Cama - Queen-2',    src:'./imagens/colcha-cama-queen2.jpg', disponivel: false,},
     
-    {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: true,},
+    {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: false,},
     {id:60, title:'Cortinas Blackout',    src:'./imagens/cortina-blackout.jpg', disponivel: true,},
     {id:61, title:'Kit Cabides de Madeira',    src:'./imagens/kit-cabides-madeira.jpg', disponivel: true,},
     {id:62, title:'Kit Depósitos de Mantimento',    src:'./imagens/kit-depositos-mantimentos.jpg', disponivel: true,},
