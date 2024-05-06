@@ -57,7 +57,7 @@ const listaPresentes = [
     
     {id:38, title:'Jogo de Lençol - Queen',    src:'./imagens/jogo-lencol.jpg', disponivel: false,},
     {id:60, title:'Cortinas Blackout',    src:'./imagens/cortina-blackout.jpg', disponivel: true,},
-    {id:61, title:'Kit Cabides de Madeira',    src:'./imagens/kit-cabides-madeira.jpg', disponivel: true,},
+    {id:61, title:'Kit Cabides de Madeira',    src:'./imagens/kit-cabides-madeira.jpg', disponivel: false,},
     {id:62, title:'Kit Depósitos de Mantimento',    src:'./imagens/kit-depositos-mantimentos.jpg', disponivel: false,},
     
     {id:64, title:'Kit Organizador Pia, Balcão',    src:'./imagens/kit-organizador-pia.jpg', disponivel: true,},
