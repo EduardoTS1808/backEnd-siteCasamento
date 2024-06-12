@@ -29,7 +29,7 @@ const listaPresentes = [
     
     
     
-    {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: false,},
+    {id:19, title:'Kit Formas c/fundo Removível ',    src:'./imagens/kit-forma-bolo-fundo-removivel.jpg', disponivel: true,},
 {id:68, title:'Panela de Pressão',    src:'./imagens/panela-de-pressao.jpg', disponivel: false,},
     
    
@@ -48,7 +48,7 @@ const listaPresentes = [
     
     {id:33, title:'Panela de Arroz Elétrica',    src:'./imagens/panela-arroz-eletrica.jpg', disponivel: true,},
     {id:3, title:'Rede Cadeira de Balanço',    src:'./imagens/rede-cadeira-balanco.png', disponivel: true,},
-    {id:2, title:'Rede Gigante - Cinza',    src:'./imagens/rede-gigante.jpg', disponivel: false,},
+    {id:2, title:'Rede Gigante - Cinza',    src:'./imagens/rede-gigante.jpg', disponivel: true,},
     
     
     {id:50, title:'Jogo de Toalha - Rosto e Banho 2',    src:'./imagens/jogo-toalha-balho2.jpg', disponivel: false,},
