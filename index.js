@@ -40,7 +40,7 @@ const listaPresentes = [
     {id:23, title:'Kit Assadeira',    src:'./imagens/kit-travessa-inox.jpg', disponivel: false,},
     {id:24, title:'Kit Travessas - Vidro',    src:'./imagens/kit-travessa-vidro.jpg', disponivel: false,},
     
-     {id:91, title:'Aspirador de Pó',    src:'./imagens/aspirador-de-po.jpg', disponivel: true,},
+     {id:91, title:'Aspirador de Pó',    src:'./imagens/aspirador-de-po.jpg', disponivel: false,},
    
     
     {id:29, title:'Tábua de Passar',    src:'./imagens/tabua-passar-roupa.jpg', disponivel: true,},
